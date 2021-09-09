@@ -1,3 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です
-new-featurで変更．
+no-new-featurで変更．
